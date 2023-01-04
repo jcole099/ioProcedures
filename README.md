@@ -24,6 +24,6 @@ The program receives 10 signed integers from the user and will validate the inpu
 
 ### Details
 
-Author: [James Cole](https://jcole.net)
-Date: 12/03/21
+Author: [James Cole](https://jcole.net)  
+Date: 12/03/21  
 License: MIT
